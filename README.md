@@ -22,6 +22,8 @@ Sou um estudante desse mundo da programação, gosto de terminal, Linux e qualqu
 
 #### Tools:
 
+#### Sistema & Ambinete
+![Arch Linux](https://img.shields.io/badge/archlinux-%232369e0?style=for-the-badge&logo=archlinux&logoColor=white)&nbsp;
 
 ## Contatos
 <p align = "center">
