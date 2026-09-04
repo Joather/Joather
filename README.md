@@ -12,12 +12,15 @@ Sou um estudante desse mundo da programação, gosto de terminal, Linux e qualqu
 ## Skills:
 
 #### Linguagens:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-DE5833?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-0e4fb2?style=for-the-badge&logo=CSS3&logoColor=black)&nbsp;
 
 #### Database:
 ![PostgreSQL](https://img.shields.io/badge/PostgreeSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=black)&nbsp;
+
+#### Tools:
 
 
 ## Contatos
