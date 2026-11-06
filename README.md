@@ -1,5 +1,5 @@
 ## Olá, me chamo Joather ♱ 岩倉 玲音, e aqui você verá um pouco sobre mim
-### Present Day, Present Life
+### Present Day... Present Time
 Konnichiwa, watashi no namae wa Joaza desu.
 
 Sou um estudante desse mundo da programação, gosto de terminal, Linux e qualquer coisa que explora a grande filosofia do mundo tecnologico
